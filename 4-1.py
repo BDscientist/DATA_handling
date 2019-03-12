@@ -35,3 +35,6 @@ with open(bfilename, "rb") as f:
 with open(tfilename, "rt") as f:
     for i,line in enumerate(f,1):
         print(type(line),' Text Read'+ str(i) + ' | ',line, end='')
+
+
+print("마무리!!!")
