@@ -37,4 +37,4 @@ with open(tfilename, "rt") as f:
         print(type(line),' Text Read'+ str(i) + ' | ',line, end='')
 
 
-print("마무리!!!")
+print("마무리!!!")#gitgit
